@@ -1,5 +1,5 @@
 - ✨ Name // @TsengFayt
-- 📝 Languages // HTML, Ruby, JavaScript + more
+- 📝 Languages // HTML / Ruby / JavaScript + more
 - 💞️ Projects // Botworld Wiki 
 - 📫 Contact Info // Discord: TsengFayt#2321
 
